@@ -5,3 +5,4 @@ Use of the materials is at your own risk. The repository owner disclaims all lia
 or consequential damages that may result from the use or misuse of the 
 repository contents, including but not limited to data loss, system compromise, or legal liability. 
 You are responsible for ensuring your actions comply with local laws and institutional policies.
+ **in simple gym-bro terms if you don't know what you're doing you might hurt yourself or others :(
